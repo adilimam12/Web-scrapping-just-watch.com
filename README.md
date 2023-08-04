@@ -40,4 +40,5 @@ Special thanks to the creators of the Selenium and BeautifulSoup libraries for t
 We also appreciate the online sources that provide movie and TV show data, enabling us to create this comprehensive web scraping project.
 
 # Contact
-If you have any questions or suggestions, please feel free to reach out to me at linkedin.com/in/adil-imam-9089b8135
+If you have any questions or suggestions, please feel free to reach out to me at 
+[https://www.linkedin.com/in/adil-imam-9089b8135]
